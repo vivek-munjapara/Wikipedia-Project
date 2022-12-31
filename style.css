@@ -21,13 +21,13 @@ body {
 
 .imagewiki {
     margin: auto;
-
+    margin-top: 40px;
 }
 
 .imagewiki img {
-    margin-top: 40px;
+   
     margin: auto;
-    width: 300px;
+    width: 265px;
 
 }
 
