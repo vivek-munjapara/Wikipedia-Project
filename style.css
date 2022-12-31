@@ -25,6 +25,7 @@ body {
 }
 
 .imagewiki img {
+    margin-top: 40px;
     margin: auto;
     width: 300px;
 
@@ -43,7 +44,7 @@ body {
     margin: auto;
     width: 300px;
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 500;
     /* height: 0px; */
     padding: 7px 10px;
     margin-bottom: 20px;
@@ -75,7 +76,7 @@ body {
 
 .first {
     width: 30%;
-    margin: 10px;
+    margin: 20px;
     padding: 10px;
     /* border: 2px solid red; */
     background-color: #fff;
